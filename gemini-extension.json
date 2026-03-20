@@ -1,0 +1,10 @@
+{
+  "name": "anamnese",
+  "version": "1.0.0",
+  "mcpServers": {
+    "anamnese": {
+      "httpUrl": "https://anamneseai.app/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
