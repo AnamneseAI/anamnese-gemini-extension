@@ -5,7 +5,7 @@ Portable, secure cloud memory for any AI. Your facts, goals, tasks, and knowledg
 ## Installation
 
 ```bash
-gemini extensions install github:AnamneseAI/anamnese-gemini-extension
+gemini extensions install https://github.com/AnamneseAI/anamnese-gemini-extension
 ```
 
 ## First Use

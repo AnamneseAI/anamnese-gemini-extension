@@ -1,7 +1,6 @@
 description = "Onboard and authenticate with Anamnese, check connected MCPs, and bootstrap your personal profile"
 
-[prompt]
-text = """Follow these steps to get the user set up with Anamnese:
+prompt = """Follow these steps to get the user set up with Anamnese:
 
 ## Step 1: Authenticate
 
