@@ -1,6 +1,7 @@
 {
   "name": "anamnese",
   "version": "1.0.0",
+  "description": "Portable cloud memory for Gemini CLI — facts, goals, tasks, and notes synced across all your AI apps",
   "mcpServers": {
     "anamnese": {
       "httpUrl": "https://anamneseai.app/api/mcp"
